@@ -1,0 +1,13 @@
+{
+	"name": "com.collisionbear.bearnecessities",
+	"version": "1.0.8",
+	"description": "Collectio of small handy Unity3D editors",
+	"displayName": "Bear Necessities",
+	"unity": "2020.3",
+	"unityRelease": "0f1",
+	"licenseUrl": "https://opensource.org/licenses/MIT",
+	"author": {
+		"name": "Collision Bear"
+	}
+}
+	
